@@ -1,2 +1,2 @@
 # SmiteCCG
- CardGame Maked with Unity
+ CardGame Made using Unity
